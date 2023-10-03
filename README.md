@@ -2,6 +2,10 @@
 ## 💫 About Me:
 Hello I'm Adriela! <br>Web Developer and Systems Engineering Student.<br><br><br>I am self-driven by a curious mind, always learning about better ways to solve problems in diverse scenarios.<br>My goal is to participate in projects where I can innovate and build technologies that move the world.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/adriela-lópez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adriela-López" height="30" width="40" /></a>
+
 ## ⚡ Fun fact:
 I enjoy learning about science and technology, especially about mathematical principles underlying programming logic.
 
