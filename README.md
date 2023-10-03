@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/Adriela23/Adriela23/blob/main/GitHubBanner.jpg)
+![I am GitHub Readme Generator's creator](https://github.com/Adriela23/Adriela23/blob/main/Banner.jpg)
 ## 💫 About Me:
 Hello I'm Adriela! <br>Web Developer and Systems Engineering Student.<br>I am self-driven by a curious mind, always learning about better ways to solve problems in diverse scenarios.<br>My goal is to participate in projects where I can innovate and build technologies that move the world.
 
