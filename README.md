@@ -4,7 +4,8 @@ Hello I'm Adriela! <br>Web Developer and Systems Engineering Student.<br><br><br
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/adriela-lópez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentina-botana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/adriela-lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adriela-lopez" height="30" width="40" /></a>
+</p>
 
 ## ⚡ Fun fact:
 I enjoy learning about science and technology, especially about mathematical principles underlying programming logic.
