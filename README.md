@@ -2,7 +2,7 @@
 ## 💫 About Me:
 Hello I’m Adriela!<br> Software Developer and Systems Engineering Student.<br><br>I am self-driven by a curious mind, always learning about better ways to solve problems in diverse scenarios. My goal is to participate in projects where I can innovate and build technologies that move the world.<br>Hands-on experience building APIs to manage client-server requests through HTTP protocol, manipulating JSON data and executing queries directly from backend to database. I manage my workflow through Agile Methodologies and build my websites using design patterns like MVC or API REST.<br><br>
 You can take a look at Ethos, my most recent contribution<br><br>
-<img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos1.gif" width="500"/>
+<img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos2.gif" width="500"/>
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos1.gif" width="500"/>
 
 <h3 align="left">Connect with me:</h3>
