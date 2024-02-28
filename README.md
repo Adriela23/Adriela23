@@ -5,8 +5,8 @@ Welcome to my virtual lab!<br><br>
 Here, you can find the projects I have worked on so far, and I will continue to share new ones as I complete them.<br>
 I want to track my progress as a Software Engineer, which is why I'll keep the small college projects and online courses I've completed before.
 My goal is to make this process accessible to others by documenting it visually and writing efficient code.<br><br>
-I am currently building an e-commerce website, includes functionalities like a login, add to cart, create orders, accepting payments via Stripe, and finally publishing it to Heroku.<br>
-The technologies used to develop this project are C#, .NET, Entity, React, TypeScript, among others.
+I am currently building an e-commerce website, includes functionalities like a login, add to cart, create orders, accepting payments via Stripe, and finally publishing it to Heroku.
+The technologies used to develop this project are C#, .NET, Entity, React, TypeScript, among others.<br>
 Also, you can take a look at Ethos, my collaborative graduation project from 4GeeksAcademy<br><br>
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos2.gif" width="500"/><br><br>
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos1.gif" width="500"/>
