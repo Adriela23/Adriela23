@@ -1,6 +1,10 @@
 ![I am GitHub Readme Generator's creator](https://github.com/Adriela23/Adriela23/blob/main/Banner.jpg)
 ## 💫 About Me:
-Hello I’m Adriela!<br> Software Developer and Systems Engineering Student.<br><br>I am self-driven by a curious mind, always learning about better ways to solve problems in diverse scenarios. My goal is to participate in projects where I can innovate and build technologies that move the world.<br>Hands-on experience building APIs to manage client-server requests through HTTP protocol, manipulating JSON data and executing queries directly from backend to database. I manage my workflow through Agile Methodologies and build my websites using design patterns like MVC or API REST.<br><br>
+Hello, I am a Systems Engineering student<br>
+Welcome to my virtual lab!<br>
+Here, you can find the projects I have worked on so far, and I will continue to share new ones as I complete them.<br><br>
+I want to track my progress as a Software Engineer, which is why I'll keep the small college projects and online courses I've completed before.
+My goal is to make this process accessible to others by documenting it visually and writing efficient code.<br><br>
 You can take a look at Ethos, my most recent contribution<br><br>
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos2.gif" width="500"/><br><br>
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos1.gif" width="500"/>
