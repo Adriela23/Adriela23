@@ -3,7 +3,7 @@
 Hello, I am a Systems Engineering student<br>
 Welcome to my virtual lab!<br><br>
 Here, you can find the projects I have worked on so far, and I will continue to share new ones as I complete them.<br>
-I want to track my progress as a Software Engineer, which is why I'll keep the small college projects and online courses I've completed before.<br>
+I want to track my progress as a Software Engineer, which is why I'll keep the small college projects and online courses I've completed before.
 My goal is to make this process accessible to others by documenting it visually and writing efficient code.<br><br>
 You can take a look at Ethos, my most recent contribution<br><br>
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos2.gif" width="500"/><br><br>
