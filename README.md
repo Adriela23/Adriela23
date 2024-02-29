@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/Adriela23/Adriela23/blob/main/Banner.jpg)
 
-## Welcome to my virtual lab! 🖥️🤓
-Hello! I am a Systems Engineering student 👩🏻‍💻<br><br>
+## Welcome to my virtual lab! 🪐👩🏻‍💻
+Hello! I am a Systems Engineering student 👾✨<br><br>
 Here, you can find the projects I have worked on so far, and I will continue to share new ones as I complete them.<br>
 I want to track my progress as a Software Engineer, which is why I'll keep the small college projects and online courses I've completed before.
 My goal is to make this process accessible to others by documenting it visually and writing efficient code.<br><br>
@@ -11,7 +11,7 @@ The technologies used to develop this project are C#, .NET, Entity, React, TypeS
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos2.gif" width="500"/><br><br>
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos1.gif" width="500"/>
 
-## 💻 Tech Stack:
+## 🌈💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -32,7 +32,7 @@ The technologies used to develop this project are C#, .NET, Entity, React, TypeS
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adriela-lopez/) 
 
-## ⚡ Fun fact:
+## 🐱 Fun fact:
 I enjoy learning about science and technology, especially about mathematical principles underlying programming logic.
 
 # 📊 GitHub Stats:
