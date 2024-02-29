@@ -11,10 +11,8 @@ Also, you can take a look at Ethos, my collaborative graduation project from 4Ge
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos2.gif" width="500"/><br><br>
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos1.gif" width="500"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adriela-lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adriela-lopez" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adriela-lopez/) 
 
 ## ⚡ Fun fact:
 I enjoy learning about science and technology, especially about mathematical principles underlying programming logic.
