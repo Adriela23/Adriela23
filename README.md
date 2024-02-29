@@ -1,13 +1,13 @@
 ![I am GitHub Readme Generator's creator](https://github.com/Adriela23/Adriela23/blob/main/Banner.jpg)
+
 ## 💫 Welcome to my virtual lab! 💫
-Hello!<br>
-I am a Systems Engineering student<br><br>
+Hello! I am a Systems Engineering student<br><br>
 Here, you can find the projects I have worked on so far, and I will continue to share new ones as I complete them.<br>
 I want to track my progress as a Software Engineer, which is why I'll keep the small college projects and online courses I've completed before.
 My goal is to make this process accessible to others by documenting it visually and writing efficient code.<br><br>
-I am currently building an e-commerce website, includes functionalities like a login, add to cart, create orders, accepting payments via Stripe, and finally publishing it to Heroku.
+📌 I am currently building an e-commerce website, includes functionalities like a login, add to cart, create orders, accepting payments via Stripe, and finally publishing it to Heroku.
 The technologies used to develop this project are C#, .NET, Entity, React, TypeScript, among others.<br><br>
-Also, you can take a look at Ethos, my collaborative graduation project from 4GeeksAcademy<br><br>
+📌 Also, you can take a look at Ethos, my collaborative graduation project from 4GeeksAcademy<br><br>
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos2.gif" width="500"/><br><br>
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos1.gif" width="500"/>
 
@@ -34,8 +34,6 @@ Also, you can take a look at Ethos, my collaborative graduation project from 4Ge
 
 ## ⚡ Fun fact:
 I enjoy learning about science and technology, especially about mathematical principles underlying programming logic.
-
-[![](https://visitcount.itsvg.in/api?id=Adriela23&icon=9&color=6)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adriela23&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
