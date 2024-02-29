@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/Adriela23/Adriela23/blob/main/Banner.jpg)
+![I am GitHub Readme Generator's creator](GithubBanner.jpg)
 
 ## Hello! 🪐👩🏻‍💻
 I am a Systems Engineering student 👾✨<br><br>
