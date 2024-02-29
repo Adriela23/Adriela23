@@ -29,13 +29,13 @@ The technologies used to develop this project are C#, .NET, Entity, React, TypeS
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## 🌐 Socials:
+## 👋🏻 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adriela-lopez/) 
 
-## 🐱 Fun fact:
+## 🐱⚗️ Fun fact:
 I enjoy learning about science and technology, especially about mathematical principles underlying programming logic.
 
-# 📊 GitHub Stats:
+## ⚡ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adriela23&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adriela23&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriela23&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
