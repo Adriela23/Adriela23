@@ -28,7 +28,7 @@ My goal is to make this process accessible to others by documenting it visually 
 I enjoy learning about science and technology, especially about mathematical principles underlying programming logic.
 
 ## 👋🏻 Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adriela-lopez/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriela-lopez/) 
 
 ## 🔥 Recent projects
 📌 I am currently building an e-commerce website, includes functionalities like a login, add to cart, create orders, accepting payments via Stripe, and finally publishing it to Heroku.
