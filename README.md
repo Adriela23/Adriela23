@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://github.com/Adriela23/Adriela23/blob/main/Banner.jpg)
-## 💫 About Me:
-Hello, welcome to my virtual lab!<br>
+## 💫 Welcome to my virtual lab! 💫
+Hello!<br>
 I am a Systems Engineering student<br><br>
 Here, you can find the projects I have worked on so far, and I will continue to share new ones as I complete them.<br>
 I want to track my progress as a Software Engineer, which is why I'll keep the small college projects and online courses I've completed before.
