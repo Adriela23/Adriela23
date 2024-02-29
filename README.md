@@ -6,13 +6,13 @@ Here, you can find the projects I have worked on so far, and I will continue to 
 I want to track my progress as a Software Engineer, which is why I'll keep the small college projects and online courses I've completed before.
 My goal is to make this process accessible to others by documenting it visually and writing efficient code.<br><br>
 
-## 👋🏻 Socials:
+## 👋🏻 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adriela-lopez/) 
 
-## 🐱⚗️ Fun fact:
+## 🐱⚗️ Fun fact
 I enjoy learning about science and technology, especially about mathematical principles underlying programming logic.
 
-## Recent projects
+## 🔥 Recent projects
 📌 I am currently building an e-commerce website, includes functionalities like a login, add to cart, create orders, accepting payments via Stripe, and finally publishing it to Heroku.
 The technologies used to develop this project are C#, .NET, Entity, React, TypeScript, among others.<br><br>
 📌 Also, you can take a look at Ethos, my collaborative graduation project from 4GeeksAcademy<br><br>
