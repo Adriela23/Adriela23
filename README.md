@@ -11,7 +11,7 @@ Also, you can take a look at Ethos, my collaborative graduation project from 4Ge
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos2.gif" width="500"/><br><br>
 <img src= "https://github.com/Adriela23/Adriela23/blob/main/Ethos1.gif" width="500"/>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
